@@ -153,17 +153,6 @@ Here’s an example:
 
 ---
 
-### 📸 Bonus Ideas (Optional)
-
-To make your project even better:
-
-* Add a **screenshot** (place it in `assets/` and link it)
-* Include a preview of the `.desktop` launcher
-* Add **translations** for global users 🌍
-* Provide a **GUI version** (future idea!)
-
----
-
 ### 👤 Author
 
 * Made with ❤️ by **Shifuuu**
@@ -177,20 +166,3 @@ To make your project even better:
 ### 📄 License
 
 MIT License — free to use, share, and modify.
-
----
-
-### 🔧 Optional: Want an Auto-Uninstaller Script?
-
-Would you like me to generate a standalone `uninstall.sh` script you can include in the repo as well? Just say the word, and I’ll create it!
-
----
-
-Let me know if you’d also like:
-
-* An auto-updater
-* A desktop icon preview
-* GUI-based setup (zenity/dialog)
-* Or packaging this into a `.deb` or `.rpm`
-
-I'm happy to help!
