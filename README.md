@@ -119,10 +119,8 @@ Want to remove Cursor? No problem.
 Run this in your terminal:
 
 ```bash
-rm -rf ~/.local/share/cursor
-rm ~/.local/share/applications/cursor-ai.desktop
-sed -i '/alias cursor=/d' ~/.bashrc ~/.zshrc 2>/dev/null
-update-desktop-database ~/.local/share/applications
+chmod +x uninstall.sh    # Makes the script executable
+./uninstall.sh 
 ```
 
 ---
