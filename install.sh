@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # Cursor AI Installer Script - Enhanced UX + Icon Fix
-# https://cursor.so
+# Website: https://cursor.so
+# Author: shifuuu31
+
+
 
 # =========================
 #      Style Settings
